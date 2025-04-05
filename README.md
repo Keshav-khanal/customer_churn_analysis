@@ -1,9 +1,9 @@
-# Customer_Clustering_Project
+# Customer_Churn_Analysis
 ## Project Overview
 This project focuses on customer segmentation using K-Means clustering. We preprocess data, apply feature scaling, and use clustering algorithms to identify customer groups.
 
 ## Repository Structure
-Customer_Clustering_Project/
+Customer_Churn_Analysis/
 ├── Data_Preparation/
 │   ├── preprocessed_data.csv
 │   ├── Scaling_Techniques.pdf
